@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 78a55a0298fff8f44941cdde8cc2e6d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dummyPulseParticles: {fileID: 4268936304774190785, guid: df301e3494d353d4c990f7cc46d81993, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
